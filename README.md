@@ -42,10 +42,10 @@ Overview of my progress and module completion.
 
 Independent research and practical tasks focusing on fundamental and advanced networking concepts.
 
-- [📄 Personal Essay](https://docs.google.com/document/d/1tgZ5qS17CIR2WBM_1Z-PTK5P3Qtvj5YZTOLJNz8tbkc/edit?usp=sharing) - Reflections and goals in networking.
-- [🗺️ Network Topology](https://docs.google.com/document/d/1TTckerWswtvwc7KKslM9W44YnAw7vLSUq3KCFj5VW-o/edit?usp=sharing) - Designing efficient network structures.
-- [📁 Not Simple Project](https://drive.google.com/file/d/1x0YUUdEXlRkx2QlPeBAFSrkDu5UaB0Lg/view?usp=sharing) - Advanced implementation tasks.
-- [🔌 TCP vs UDP Comparison](https://docs.google.com/document/d/1TvRQ_q9Gi8Sg2aDc1rs2yItFNWlX1hYrzsQmhfszGYM/edit?usp=sharing) - Deep dive into transport layer protocols.
+- [📄 Personal Essay](https://docs.google.com/document/d/1aH0OjvPMIumv7i_Dtv87Lyzy1VMJ5B8FvUFHdcEU2N0/edit?usp=sharing) - Reflections and goals in networking.
+- [🗺️ Network Topology](https://docs.google.com/document/d/11ZdP9Y_T_AxpXQG3NhjHJNN12Q0klmqTAmib92ZEWAo/edit?usp=sharing) - Designing efficient network structures.
+- [📁 Not Simple Project](https://drive.google.com/file/d/1gAKc8jbWo9S4WDdqVoBRiaPVnDvP7yu4/view?usp=sharing) - Advanced implementation tasks.
+- [🔌 TCP vs UDP Comparison](https://docs.google.com/document/d/1btQlQajTz8KnmyKzUDWDHozvAlQBrURHlwSg_Wh99uo/edit?usp=sharing) - Deep dive into transport layer protocols.
 - [🧪 Lab 5](#) - Practical application (In progress).
 
 ---
