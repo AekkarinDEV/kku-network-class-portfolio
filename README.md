@@ -19,16 +19,13 @@ I have successfully completed several Cisco Networking Academy courses to build 
 <table>
     <tr>
     <td>
-      <img src="./assets/img/CCNA-certificate-1.png" width="auto" alt="CCNA Certificate" />
-      </td>
-      <td>
-      <img src="./assets/img/Getting_Started_with_Cisco_Packet_Tracer_certificate-1.png" width="auto" alt="Packet Tracer Certificate"/>
+      <img src="./assets/img/CCNA_CERT.jpg" width="auto" alt="CCNA Certificate" />
       </td>
     </tr>
 </table>
 
 <p align="start">
-  <b>CCNA: Introduction to Networks (ITN)</b> &nbsp; | &nbsp; <b>Cisco Packet Tracer</b>
+  <b>CCNA: Introduction to Networks (ITN)</b>
 </p>
 
 ---
@@ -37,7 +34,7 @@ I have successfully completed several Cisco Networking Academy courses to build 
 
 Overview of my progress and module completion.
 
-![Grade Module](./assets/img/grade-module.png)
+![Grade Module](./assets/img/scores.png)
 
 ---
 
@@ -68,13 +65,13 @@ Collaborative laboratory exercises and team-based network implementations.
 
 ---
 
-## 💻 Class Workshop
+<!-- ## 💻 Class Workshop
 
 Additional individual work and code implementations from the network class.
 
 - [📂 Network Class Repository](https://github.com/AekkarinDEV/network-class)
 
----
+--- -->
 
 ## 🚀 Key Projects
 
