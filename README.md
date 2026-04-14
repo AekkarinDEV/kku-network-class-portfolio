@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🌐 Network Engineering Portfolio</h1>
+  <h1>🌐 Network Class Portfolio</h1>
   <p><em>Showcasing academic progress, laboratory workshops, and professional certifications in the field of networking and computer systems.</em></p>
   
   <table>
